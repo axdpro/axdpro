@@ -3,5 +3,5 @@ AXDPRO / KYLIN is a package for
 2). Automatically processes the single crystal diffraction data by distributing the multiple 
     modular tasks parallel onto clusters and/or PC/Workstations or local clouds.
 
-See repository 'axdpro' for download and installation.
+See repository axdpro->About for download, 'axdpro_kylin_install_readme.pdf' for installation.
 
