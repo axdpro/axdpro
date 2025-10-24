@@ -5,5 +5,4 @@ AXDPRO / KYLIN is a package for
 
 See repository axdpro->About for download the package.
 See 'axdpro_kylin_install_readme.pdf' for installation. Or after saving the sgxpro.tar to a
-folder, and type the command: tar  xvf  sgxpro.tar; ./sgxpro_install
-
+folder where to put the package, type command: tar  xvf  sgxpro.tar; ./sgxpro_install
